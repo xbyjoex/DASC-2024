@@ -1,3 +1,3 @@
 # DASC-2024
 Repository for all Tasks relating the Data Science module at BA Sachsen.
-- [Task1: Data Scientist salaty analysis](Task1/Task1.ipynb)
+- [Task1: Data Scientist salary analysis](Task1)
